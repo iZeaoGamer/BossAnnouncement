@@ -16,13 +16,13 @@
 #
 #         Changing messages are up here :P
 # ==================================================
-head-message: "We use BossAnnouncement by XenialDan!"
+head-message: "§6Prive§eMC"
 # Changing messages are here
 # To set the percentage of the bar add {number%} before the message!
 # Otherwise it takes the percentage that was there before.
 # Example for a 25% filled: "{25%}This is a quarter filled bar"
 changing-messages:
- - "{100%}§6Prive§eMC §6Store§f: §eprivemc.buycraft.net"
+ - "{100%}&6Prive&eMC &6Store&f: &eprivemc.buycraft.net"
 # How fast the messages switch in seconds. 1 is minimum
 change-speed: 5
 # This changes the behaviour for multiple worlds
