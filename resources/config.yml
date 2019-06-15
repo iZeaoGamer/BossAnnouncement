@@ -22,11 +22,7 @@ head-message: "We use BossAnnouncement by XenialDan!"
 # Otherwise it takes the percentage that was there before.
 # Example for a 25% filled: "{25%}This is a quarter filled bar"
 changing-messages:
- - "{0%}{BOLD}{AQUA}Twitter{RESET}: XenialDan"
- - "{25%}{BOLD}{BLACK}You{RED}Tube{RESET}: XenialDan"
- - "{50%}{BOLD}{BLACK}GitHub{RESET}: thebigsmileXD"
- - "{75%}{BOLD}Instagram{RESET}: XenialDan"
- - "{100%}{BOLD}PM-Forums{RESET}: thebigsmileXD"
+ - "{100%}§6Prive§eMC §6Store§f: §eprivemc.buycraft.net"
 # How fast the messages switch in seconds. 1 is minimum
 change-speed: 5
 # This changes the behaviour for multiple worlds
